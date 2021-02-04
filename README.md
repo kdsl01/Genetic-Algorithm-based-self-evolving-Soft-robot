@@ -1,8 +1,8 @@
 # Genetic-Algorithm-based-self-evolving-Soft-robot
-#Final project for Columbia University MECE 4501 Evolutonary Computation and Design Automation
-Instructor: Hod Lipson
-Project team member: Jiaqi Miao, Wanjun Chao
-#The goal of this project is to design a soft robot with combination of spring and mass point.
+# Final project for Columbia University MECE 4501 Evolutonary Computation and Design Automation
+Instructor: Hod Lipson\
+Project team member: Jiaqi Miao, Wanjun Chao\
+The goal of this project is to design a soft robot with combination of spring and mass point.
 The soft robot should be able to move by changing the length of spring and weight of the mass.
 # Key point:
 3D physics simulator to simulate gravity force, spring tension force, ground reaction force and firction that apply on the robot.
