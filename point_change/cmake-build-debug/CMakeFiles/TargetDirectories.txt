@@ -1,3 +1,0 @@
-F:/Project_phaseC/point_change/cmake-build-debug/CMakeFiles/point_change.dir
-F:/Project_phaseC/point_change/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Project_phaseC/point_change/cmake-build-debug/CMakeFiles/rebuild_cache.dir
